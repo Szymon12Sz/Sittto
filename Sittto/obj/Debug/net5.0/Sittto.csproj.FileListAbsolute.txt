@@ -1,0 +1,16 @@
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\Sittto.exe
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\Sittto.deps.json
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\Sittto.runtimeconfig.json
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\Sittto.runtimeconfig.dev.json
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\Sittto.dll
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\ref\Sittto.dll
+C:\Users\Szymi\source\repos\Sittto\Sittto\bin\Debug\net5.0\Sittto.pdb
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.csproj.AssemblyReference.cache
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.AssemblyInfoInputs.cache
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.AssemblyInfo.cs
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.csproj.CoreCompileInputs.cache
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.dll
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\ref\Sittto.dll
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.pdb
+C:\Users\Szymi\source\repos\Sittto\Sittto\obj\Debug\net5.0\Sittto.genruntimeconfig.cache
